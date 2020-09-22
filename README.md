@@ -10,6 +10,7 @@ Linux SUID 提权检测脚本，自动搜索具有 `s` 权限**可被利用的**
 ./suidcheck.sh
 ```
 ![](https://isecurityclub-1253463441.cos.ap-chengdu.myqcloud.com/suidcheck-1.gif)
+![](https://isecurityclub-1253463441.cos.ap-chengdu.myqcloud.com/suidcheck-2.gif)
 
 结果用表格形式展示，访问对应网址即可查看详细提权方法.
 
